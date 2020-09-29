@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "m/Y0hJgspIqLG5yi1PoRjoDkPMChhUfVYLfUHjZOctdVeWRwCWu69Zhr9NlgEPsie3OdxhcM1R8qYn6VSk+Jcg==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Assignments\\Galytix\\Galytix\\DataManagement.Repository.Interfaces\\DataManagement.Repository.Interfaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dines\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Dines\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
