@@ -14,9 +14,9 @@ namespace DataManagement.Business
         {
             _gwpRepository = gwpRepository;
         }
-        public IList<Gwp> GetGwp(string lineOfBusiness)
+        public IList<Gwp> GetGwpAvg(string country, string lineOfBusiness)
         {
-            return _gwpRepository.GetGwp(lineOfBusiness);
+            return _gwpRepository.GetGwpAvg(country, lineOfBusiness);
         }
     }
 }

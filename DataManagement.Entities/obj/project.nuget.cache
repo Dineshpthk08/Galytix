@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3fdLhwa2AVkZbsQx9VCLZk8DCRm53hY9oiZyBVIcEbcMq/bJgbmmLVf2Q17oS3K4V1NYiscRDE1sikcMisfLAw==",
+  "dgSpecHash": "Bvpm7jzQPUdP68S1QrjLZqhOkMpr7GBBsUcPIOCH1jvizE6hwVWC270m+4k2p7MpgT+Grq8J5vGedXk4ShnALw==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\Assignments\\Galytix\\Galytix\\DataManagement.Entities\\DataManagement.Entities.csproj",
+  "projectFilePath": "C:\\Projects\\Assignments\\Galytix\\DataManagement.Entities\\DataManagement.Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dines\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Dines\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

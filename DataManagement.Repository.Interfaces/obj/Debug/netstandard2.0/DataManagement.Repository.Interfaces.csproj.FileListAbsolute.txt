@@ -34,3 +34,15 @@ C:\Projects\Assignments\Galytix\Galytix\DataManagement.Repository.Interfaces\obj
 C:\Projects\Assignments\Galytix\Galytix\DataManagement.Repository.Interfaces\obj\Debug\netstandard2.0\DataManagement.Repository.Interfaces.csproj.CopyComplete
 C:\Projects\Assignments\Galytix\Galytix\DataManagement.Repository.Interfaces\obj\Debug\netstandard2.0\DataManagement.Repository.Interfaces.dll
 C:\Projects\Assignments\Galytix\Galytix\DataManagement.Repository.Interfaces\obj\Debug\netstandard2.0\DataManagement.Repository.Interfaces.pdb
+C:\Projects\Assignments\Galytix\DataManagement.Repository.Interfaces\bin\Debug\netstandard2.0\DataManagement.Repository.Interfaces.deps.json
+C:\Projects\Assignments\Galytix\DataManagement.Repository.Interfaces\bin\Debug\netstandard2.0\DataManagement.Repository.Interfaces.dll
+C:\Projects\Assignments\Galytix\DataManagement.Repository.Interfaces\bin\Debug\netstandard2.0\DataManagement.Repository.Interfaces.pdb
+C:\Projects\Assignments\Galytix\DataManagement.Repository.Interfaces\bin\Debug\netstandard2.0\DataManagement.Entities.dll
+C:\Projects\Assignments\Galytix\DataManagement.Repository.Interfaces\bin\Debug\netstandard2.0\DataManagement.Entities.pdb
+C:\Projects\Assignments\Galytix\DataManagement.Repository.Interfaces\obj\Debug\netstandard2.0\DataManagement.Repository.Interfaces.csprojAssemblyReference.cache
+C:\Projects\Assignments\Galytix\DataManagement.Repository.Interfaces\obj\Debug\netstandard2.0\DataManagement.Repository.Interfaces.AssemblyInfoInputs.cache
+C:\Projects\Assignments\Galytix\DataManagement.Repository.Interfaces\obj\Debug\netstandard2.0\DataManagement.Repository.Interfaces.AssemblyInfo.cs
+C:\Projects\Assignments\Galytix\DataManagement.Repository.Interfaces\obj\Debug\netstandard2.0\DataManagement.Repository.Interfaces.csproj.CoreCompileInputs.cache
+C:\Projects\Assignments\Galytix\DataManagement.Repository.Interfaces\obj\Debug\netstandard2.0\DataManagement.Repository.Interfaces.csproj.CopyComplete
+C:\Projects\Assignments\Galytix\DataManagement.Repository.Interfaces\obj\Debug\netstandard2.0\DataManagement.Repository.Interfaces.dll
+C:\Projects\Assignments\Galytix\DataManagement.Repository.Interfaces\obj\Debug\netstandard2.0\DataManagement.Repository.Interfaces.pdb

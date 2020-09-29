@@ -184,11 +184,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Assignments\\Galytix\\Galytix\\DataManagement.Entities\\DataManagement.Entities.csproj",
+      "projectUniqueName": "C:\\Projects\\Assignments\\Galytix\\DataManagement.Entities\\DataManagement.Entities.csproj",
       "projectName": "DataManagement.Entities",
-      "projectPath": "C:\\Projects\\Assignments\\Galytix\\Galytix\\DataManagement.Entities\\DataManagement.Entities.csproj",
+      "projectPath": "C:\\Projects\\Assignments\\Galytix\\DataManagement.Entities\\DataManagement.Entities.csproj",
       "packagesPath": "C:\\Users\\Dines\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Assignments\\Galytix\\Galytix\\DataManagement.Entities\\obj\\",
+      "outputPath": "C:\\Projects\\Assignments\\Galytix\\DataManagement.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dines\\AppData\\Roaming\\NuGet\\NuGet.Config",

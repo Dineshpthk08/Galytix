@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OYNoRf1pbywIK0i1WTMfBT2maYHx7F+6t199QlaWf5jSh0EOmTUVUv2X9FYYLY4Dt1iF+k+1DeyK0G2JbPbdHg==",
+  "dgSpecHash": "jfw4x/a4gsd+poke3MrwJYCzVEQ0VP7RbqC1RW21ZRnZ6v6kT7TPSCRvWsJHb18ehOvu12yTdhS2ER18K3LK3g==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\Assignments\\Galytix\\Galytix\\DataManagement.API\\DataManagement.API.csproj",
+  "projectFilePath": "C:\\Projects\\Assignments\\Galytix\\DataManagement.API\\DataManagement.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dines\\.nuget\\packages\\dapper\\2.0.4\\dapper.2.0.4.nupkg.sha512",
     "C:\\Users\\Dines\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",

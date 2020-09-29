@@ -34,3 +34,15 @@ C:\Projects\Assignments\Galytix\Galytix\DataManagement.Business.Interfaces\obj\D
 C:\Projects\Assignments\Galytix\Galytix\DataManagement.Business.Interfaces\obj\Debug\netstandard2.0\DataManagement.Business.Interfaces.csproj.CopyComplete
 C:\Projects\Assignments\Galytix\Galytix\DataManagement.Business.Interfaces\obj\Debug\netstandard2.0\DataManagement.Business.Interfaces.dll
 C:\Projects\Assignments\Galytix\Galytix\DataManagement.Business.Interfaces\obj\Debug\netstandard2.0\DataManagement.Business.Interfaces.pdb
+C:\Projects\Assignments\Galytix\DataManagement.Business.Interfaces\bin\Debug\netstandard2.0\DataManagement.Business.Interfaces.deps.json
+C:\Projects\Assignments\Galytix\DataManagement.Business.Interfaces\bin\Debug\netstandard2.0\DataManagement.Business.Interfaces.dll
+C:\Projects\Assignments\Galytix\DataManagement.Business.Interfaces\bin\Debug\netstandard2.0\DataManagement.Business.Interfaces.pdb
+C:\Projects\Assignments\Galytix\DataManagement.Business.Interfaces\bin\Debug\netstandard2.0\DataManagement.Entities.dll
+C:\Projects\Assignments\Galytix\DataManagement.Business.Interfaces\bin\Debug\netstandard2.0\DataManagement.Entities.pdb
+C:\Projects\Assignments\Galytix\DataManagement.Business.Interfaces\obj\Debug\netstandard2.0\DataManagement.Business.Interfaces.csprojAssemblyReference.cache
+C:\Projects\Assignments\Galytix\DataManagement.Business.Interfaces\obj\Debug\netstandard2.0\DataManagement.Business.Interfaces.AssemblyInfoInputs.cache
+C:\Projects\Assignments\Galytix\DataManagement.Business.Interfaces\obj\Debug\netstandard2.0\DataManagement.Business.Interfaces.AssemblyInfo.cs
+C:\Projects\Assignments\Galytix\DataManagement.Business.Interfaces\obj\Debug\netstandard2.0\DataManagement.Business.Interfaces.csproj.CoreCompileInputs.cache
+C:\Projects\Assignments\Galytix\DataManagement.Business.Interfaces\obj\Debug\netstandard2.0\DataManagement.Business.Interfaces.csproj.CopyComplete
+C:\Projects\Assignments\Galytix\DataManagement.Business.Interfaces\obj\Debug\netstandard2.0\DataManagement.Business.Interfaces.dll
+C:\Projects\Assignments\Galytix\DataManagement.Business.Interfaces\obj\Debug\netstandard2.0\DataManagement.Business.Interfaces.pdb

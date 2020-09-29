@@ -11,9 +11,12 @@ namespace DataManagement.Repository
 {
     public class GwpRepository : BaseRepository, IGwpRepository
     {
-        public IList<Gwp> GetGwp(string lineOfBusiness)
+        public IList<Gwp> GetGwpAvg(string country, string lineOfBusiness)
         {
-            IList<Gwp> gwpList = new List<Gwp>();
+            IList<Gwp> gwpList = new List<Gwp>() {
+            new Gwp{ LineOfBusiness = "transport", Average=231441262.7M },
+            new Gwp{ LineOfBusiness = "freight", Average=584938597.7M }
+            };
             return gwpList;
         }
     }

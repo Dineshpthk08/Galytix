@@ -24,3 +24,11 @@ C:\Projects\Assignments\Galytix\Galytix\DataManagement.Entities\obj\Debug\netsta
 C:\Projects\Assignments\Galytix\Galytix\DataManagement.Entities\obj\Debug\netstandard2.0\DataManagement.Entities.csproj.CoreCompileInputs.cache
 C:\Projects\Assignments\Galytix\Galytix\DataManagement.Entities\obj\Debug\netstandard2.0\DataManagement.Entities.dll
 C:\Projects\Assignments\Galytix\Galytix\DataManagement.Entities\obj\Debug\netstandard2.0\DataManagement.Entities.pdb
+C:\Projects\Assignments\Galytix\DataManagement.Entities\bin\Debug\netstandard2.0\DataManagement.Entities.deps.json
+C:\Projects\Assignments\Galytix\DataManagement.Entities\bin\Debug\netstandard2.0\DataManagement.Entities.dll
+C:\Projects\Assignments\Galytix\DataManagement.Entities\bin\Debug\netstandard2.0\DataManagement.Entities.pdb
+C:\Projects\Assignments\Galytix\DataManagement.Entities\obj\Debug\netstandard2.0\DataManagement.Entities.AssemblyInfoInputs.cache
+C:\Projects\Assignments\Galytix\DataManagement.Entities\obj\Debug\netstandard2.0\DataManagement.Entities.AssemblyInfo.cs
+C:\Projects\Assignments\Galytix\DataManagement.Entities\obj\Debug\netstandard2.0\DataManagement.Entities.csproj.CoreCompileInputs.cache
+C:\Projects\Assignments\Galytix\DataManagement.Entities\obj\Debug\netstandard2.0\DataManagement.Entities.dll
+C:\Projects\Assignments\Galytix\DataManagement.Entities\obj\Debug\netstandard2.0\DataManagement.Entities.pdb

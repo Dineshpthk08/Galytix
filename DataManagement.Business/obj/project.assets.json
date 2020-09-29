@@ -238,11 +238,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Assignments\\Galytix\\Galytix\\DataManagement.Business\\DataManagement.Business.csproj",
+      "projectUniqueName": "C:\\Projects\\Assignments\\Galytix\\DataManagement.Business\\DataManagement.Business.csproj",
       "projectName": "DataManagement.Business",
-      "projectPath": "C:\\Projects\\Assignments\\Galytix\\Galytix\\DataManagement.Business\\DataManagement.Business.csproj",
+      "projectPath": "C:\\Projects\\Assignments\\Galytix\\DataManagement.Business\\DataManagement.Business.csproj",
       "packagesPath": "C:\\Users\\Dines\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Assignments\\Galytix\\Galytix\\DataManagement.Business\\obj\\",
+      "outputPath": "C:\\Projects\\Assignments\\Galytix\\DataManagement.Business\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dines\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -258,14 +258,14 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Projects\\Assignments\\Galytix\\Galytix\\DataManagement.Business.Interfaces\\DataManagement.Business.Interfaces.csproj": {
-              "projectPath": "C:\\Projects\\Assignments\\Galytix\\Galytix\\DataManagement.Business.Interfaces\\DataManagement.Business.Interfaces.csproj"
+            "C:\\Projects\\Assignments\\Galytix\\DataManagement.Business.Interfaces\\DataManagement.Business.Interfaces.csproj": {
+              "projectPath": "C:\\Projects\\Assignments\\Galytix\\DataManagement.Business.Interfaces\\DataManagement.Business.Interfaces.csproj"
             },
-            "C:\\Projects\\Assignments\\Galytix\\Galytix\\DataManagement.Entities\\DataManagement.Entities.csproj": {
-              "projectPath": "C:\\Projects\\Assignments\\Galytix\\Galytix\\DataManagement.Entities\\DataManagement.Entities.csproj"
+            "C:\\Projects\\Assignments\\Galytix\\DataManagement.Entities\\DataManagement.Entities.csproj": {
+              "projectPath": "C:\\Projects\\Assignments\\Galytix\\DataManagement.Entities\\DataManagement.Entities.csproj"
             },
-            "C:\\Projects\\Assignments\\Galytix\\Galytix\\DataManagement.Repository.Interfaces\\DataManagement.Repository.Interfaces.csproj": {
-              "projectPath": "C:\\Projects\\Assignments\\Galytix\\Galytix\\DataManagement.Repository.Interfaces\\DataManagement.Repository.Interfaces.csproj"
+            "C:\\Projects\\Assignments\\Galytix\\DataManagement.Repository.Interfaces\\DataManagement.Repository.Interfaces.csproj": {
+              "projectPath": "C:\\Projects\\Assignments\\Galytix\\DataManagement.Repository.Interfaces\\DataManagement.Repository.Interfaces.csproj"
             }
           }
         }

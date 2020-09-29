@@ -12957,11 +12957,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Assignments\\Galytix\\Galytix\\DataManagement.API\\DataManagement.API.csproj",
+      "projectUniqueName": "C:\\Projects\\Assignments\\Galytix\\DataManagement.API\\DataManagement.API.csproj",
       "projectName": "DataManagement.API",
-      "projectPath": "C:\\Projects\\Assignments\\Galytix\\Galytix\\DataManagement.API\\DataManagement.API.csproj",
+      "projectPath": "C:\\Projects\\Assignments\\Galytix\\DataManagement.API\\DataManagement.API.csproj",
       "packagesPath": "C:\\Users\\Dines\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Assignments\\Galytix\\Galytix\\DataManagement.API\\obj\\",
+      "outputPath": "C:\\Projects\\Assignments\\Galytix\\DataManagement.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dines\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -12977,20 +12977,20 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Projects\\Assignments\\Galytix\\Galytix\\DataManagement.Business.Interfaces\\DataManagement.Business.Interfaces.csproj": {
-              "projectPath": "C:\\Projects\\Assignments\\Galytix\\Galytix\\DataManagement.Business.Interfaces\\DataManagement.Business.Interfaces.csproj"
+            "C:\\Projects\\Assignments\\Galytix\\DataManagement.Business.Interfaces\\DataManagement.Business.Interfaces.csproj": {
+              "projectPath": "C:\\Projects\\Assignments\\Galytix\\DataManagement.Business.Interfaces\\DataManagement.Business.Interfaces.csproj"
             },
-            "C:\\Projects\\Assignments\\Galytix\\Galytix\\DataManagement.Business\\DataManagement.Business.csproj": {
-              "projectPath": "C:\\Projects\\Assignments\\Galytix\\Galytix\\DataManagement.Business\\DataManagement.Business.csproj"
+            "C:\\Projects\\Assignments\\Galytix\\DataManagement.Business\\DataManagement.Business.csproj": {
+              "projectPath": "C:\\Projects\\Assignments\\Galytix\\DataManagement.Business\\DataManagement.Business.csproj"
             },
-            "C:\\Projects\\Assignments\\Galytix\\Galytix\\DataManagement.Entities\\DataManagement.Entities.csproj": {
-              "projectPath": "C:\\Projects\\Assignments\\Galytix\\Galytix\\DataManagement.Entities\\DataManagement.Entities.csproj"
+            "C:\\Projects\\Assignments\\Galytix\\DataManagement.Entities\\DataManagement.Entities.csproj": {
+              "projectPath": "C:\\Projects\\Assignments\\Galytix\\DataManagement.Entities\\DataManagement.Entities.csproj"
             },
-            "C:\\Projects\\Assignments\\Galytix\\Galytix\\DataManagement.Repository.Interfaces\\DataManagement.Repository.Interfaces.csproj": {
-              "projectPath": "C:\\Projects\\Assignments\\Galytix\\Galytix\\DataManagement.Repository.Interfaces\\DataManagement.Repository.Interfaces.csproj"
+            "C:\\Projects\\Assignments\\Galytix\\DataManagement.Repository.Interfaces\\DataManagement.Repository.Interfaces.csproj": {
+              "projectPath": "C:\\Projects\\Assignments\\Galytix\\DataManagement.Repository.Interfaces\\DataManagement.Repository.Interfaces.csproj"
             },
-            "C:\\Projects\\Assignments\\Galytix\\Galytix\\DataManagement.Repository\\DataManagement.Repository.csproj": {
-              "projectPath": "C:\\Projects\\Assignments\\Galytix\\Galytix\\DataManagement.Repository\\DataManagement.Repository.csproj"
+            "C:\\Projects\\Assignments\\Galytix\\DataManagement.Repository\\DataManagement.Repository.csproj": {
+              "projectPath": "C:\\Projects\\Assignments\\Galytix\\DataManagement.Repository\\DataManagement.Repository.csproj"
             }
           }
         }

@@ -7,6 +7,6 @@ namespace DataManagement.Business.Interfaces
 {
     public interface IGwpManager
     {
-        IList<Gwp> GetGwp(string lineOfBusiness);
+        IList<Gwp> GetGwpAvg(string country, string lineOfBusiness);
     }
 }

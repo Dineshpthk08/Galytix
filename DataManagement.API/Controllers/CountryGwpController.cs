@@ -21,9 +21,9 @@ namespace DataManagement.API.Controllers
 
         // POST api/user  
         [HttpGet]
-        public void Post([FromBody] Gwp gwp)
+        public IList<Gwp> GetGwpAvg([FromRoute] string Country, string lineOfBusiness)
         {
-            _gwpManager.GetGwp(gwp.LineOfBusiness);
+            return _gwpManager.GetGwpAvg(Country, lineOfBusiness);
         }
     }
 }

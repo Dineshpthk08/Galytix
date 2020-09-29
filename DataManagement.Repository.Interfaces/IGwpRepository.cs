@@ -7,6 +7,6 @@ namespace DataManagement.Repository.Interfaces
 {
     public interface IGwpRepository
     {
-        IList<Gwp> GetGwp(string lineOfBusiness);
+        IList<Gwp> GetGwpAvg(string country, string lineOfBusiness);
     }
 }

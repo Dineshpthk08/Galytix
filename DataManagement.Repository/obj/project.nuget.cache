@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YglthxqVWX5h8BNhjBdxx8SRBF7p99ngzjp4mYe7kH6n3wwB8EkR70lLI80sX2dhXv6SdwkCmyfG1A8fZyfxmA==",
+  "dgSpecHash": "JUpmZU91VrfNYFkirA2tWJ9LyUmaAv65jh131HMOE1wcRmoHwbu8fWsbLLSddHRMoV0ByUTm+P/KhKTYB2ZpOQ==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\Assignments\\Galytix\\Galytix\\DataManagement.Repository\\DataManagement.Repository.csproj",
+  "projectFilePath": "C:\\Projects\\Assignments\\Galytix\\DataManagement.Repository\\DataManagement.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dines\\.nuget\\packages\\dapper\\2.0.4\\dapper.2.0.4.nupkg.sha512",
     "C:\\Users\\Dines\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
