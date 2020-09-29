@@ -13,11 +13,23 @@ namespace DataManagement.Repository
     {
         public IList<Gwp> GetGwpAvg(string country, string lineOfBusiness)
         {
-            IList<Gwp> gwpList = new List<Gwp>() {
+            try
+            {
+                IList<Gwp> gwpList = new List<Gwp>() {
             new Gwp{ LineOfBusiness = "transport", Average=231441262.7M },
             new Gwp{ LineOfBusiness = "freight", Average=584938597.7M }
             };
-            return gwpList;
+                return gwpList;
+            } 
+            catch(Exception ex)
+            {
+                throw ex;
+            }
+            finally
+            {
+
+            }
+            //Logic to get data from database or in memory goes here 
         }
     }
 }
